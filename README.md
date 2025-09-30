@@ -94,13 +94,13 @@ multi-tenant-crm/
 │   │   └── index.html
 │   ├── src/
 │   │   ├── components/
-│   │   │   ├── ContactForm.jsx
-│   │   │   ├── ContactList.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── Login.jsx
-│   │   │   └── UserManagement.jsx
+│   │   │   ├── ContactForm.js
+│   │   │   ├── ContactList.js
+│   │   │   ├── Dashboard.js
+│   │   │   ├── Login.js
+│   │   │   └── UserManagement.js
 │   │   ├── context/
-│   │   │   └── AuthContext.jsx
+│   │   │   └── AuthContext.js
 │   │   ├── services/
 │   │   │   └── api.js
 │   │   ├── App.jsx
