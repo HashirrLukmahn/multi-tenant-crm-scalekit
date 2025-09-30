@@ -996,7 +996,6 @@ git commit -m "Initial commit: Multi-tenant CRM with Scalekit"
    - Name: `multi-tenant-crm-scalekit`
    - Description: `Multi-tenant B2B CRM with Scalekit authentication (Google OAuth, Magic Link, OTP)`
    - Visibility: **Public**
-   - DO NOT initialize with README (you already have one)
 
 3. **Push to GitHub:**
 ```bash
@@ -1118,7 +1117,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- **Your Name** - [Your GitHub](https://github.com/yourusername)
+- **Hashirr Lukmahn** - [Hashirr's Repo](https://github.com/HashirrLukmahn)
 
 ---
 
@@ -1137,7 +1136,7 @@ If you have questions or issues:
 1. Check the [Known Issues](#known-issues--challenges) section
 2. Review [API Documentation](#api-documentation)
 3. Open an issue on GitHub
-4. Contact: your.email@example.com
+4. Contact: hashirrlukmahn@outlook.com
 
 ---
 
